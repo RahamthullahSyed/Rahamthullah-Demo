@@ -1,4 +1,3 @@
-# Rahamthullah-Demo
-This is my first GIT Repository.
-<br>
-Author Syed Rahamthullah, AEE
+# demo using python language
+x=125
+print(x)
